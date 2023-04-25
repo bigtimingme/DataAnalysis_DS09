@@ -14,13 +14,13 @@ Tareas a realizar:
 
 3. Armar 4 KPI e incluírlos en el Dashboard del punto 2.
 
-   KPI 1: Aumento del %2 en la penetración de Internet a nivel provincial.
+   KPI 1: Aumentar 2% la penetración de Internet a nivel provincial el próximo trimestre
 
-   KP1 2: Disminución del consumo de la tecnología ADSL a nivel nacional.
+   KP1 2: Disminuir el consumo de la tecnología ADSL a nivel nacional en el próximo trimestre.
 
-   KPI 3: Aumento del consumo de la tecnología Cablemodem a nivel nacional.
+   KPI 3: Aumentar el consumo de la tecnología Cablemodem a nivel nacional en el próximo trimestre.
 
-   KPI 4: Aumento del consumo de Fibra Óptica.
+   KPI 4: Aumentar el consumo de Fibra Óptica en el próximo trimestre.
 
 
 Reporte de Análisis:
