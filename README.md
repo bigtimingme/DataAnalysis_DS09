@@ -3,15 +3,24 @@ Telecomunicaciones
 
 Alumno: Francisco Jiménez de Aréchaga
 Cuenta Github: bigtimingme
+Repositorio: DataAnalysis_DS09
 
 Tareas a realizar:
 1. EDA(Exploratory Data Analysis) de la situación actual del Internet en Argentina:
-El EDA está localizado en el archivo EDA.ipynb
+   El EDA está localizado en el archivo EDA.ipynb
 
 2. Crear un Dashboard coherente con el EDA previo:
-El Dashboard está en el archivo ENACOM.pbix
+   El Dashboard está en el archivo ENACOM.pbix
 
 3. Armar 4 KPI e incluírlos en el Dashboard del punto 2.
+
+   KPI 1: Aumento del %2 en la penetración de Internet a nivel provincial.
+
+   KP1 2: Disminución del consumo de la tecnología ADSL a nivel nacional.
+
+   KPI 3: Aumento del consumo de la tecnología Cablemodem a nivel nacional.
+
+   KPI 4: Aumento del consumo de Fibra Óptica.
 
 
 Reporte de Análisis:
