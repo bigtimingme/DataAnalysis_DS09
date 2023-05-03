@@ -5,6 +5,9 @@ Alumno: Francisco Jiménez de Aréchaga
 Cuenta Github: bigtimingme
 Repositorio: DataAnalysis_DS09
 
+Rol a desarrollar:
+Una empresa prestadora de servicios de telecomunicaciones nos encarga la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. A Considerar: la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+
 Tareas a realizar:
 1. EDA(Exploratory Data Analysis) de la situación actual del Internet en Argentina:
    El EDA está localizado en el archivo EDA.ipynb
@@ -16,11 +19,11 @@ Tareas a realizar:
 
    KPI 1: Aumentar 2% la penetración de Internet a nivel provincial el próximo trimestre
 
-   KP1 2: Disminuir el consumo de la tecnología ADSL a nivel nacional en el próximo trimestre.
+   KP1 2: Disminuir 1% el consumo de la tecnología ADSL a nivel nacional en el próximo trimestre.
 
-   KPI 3: Aumentar el consumo de la tecnología Cablemodem a nivel nacional en el próximo trimestre.
+   KPI 3: Aumentar 2% el consumo de la tecnología Cablemodem a nivel nacional en el próximo trimestre.
 
-   KPI 4: Aumentar el consumo de Fibra Óptica en el próximo trimestre.
+   KPI 4: Aumentar 2% el consumo de Fibra Óptica en el próximo trimestre a nivel nacional.
 
 
 Reporte de Análisis:
